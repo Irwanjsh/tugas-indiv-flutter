@@ -6,7 +6,7 @@ Aplikasi katalog produk berbasis mobile menggunakan framework Flutter yang terin
 
 ## 📹 Video Presentasi & Live Demo
 Tonton video presentasi kode dan pengujian aplikasi langsung di perangkat HP fisik melalui tautan YouTube berikut:
-- **Tautan YouTube:** [Tonton Video Demo Mellow Market di YouTube](https://youtu.be/GANTI_DENGAN_LINK_YOUTUBE_ANDA)
+- **Tautan YouTube:** [Tonton Video Demo Mellow Market di YouTube](https://youtu.be/gqEANhPqABc?si=VHtLwzjYo9DbBSRT)
 - **Nama Pengembang:** [Isi Nama Anda]
 - **NIM:** [Isi NIM Anda]
 - **Mata Kuliah:** Pemrograman Perangkat Bergerak (Mobile Programming)
