@@ -1,0 +1,60 @@
+# Flutter/Dart gitignore
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Gradle related (Android)
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/key.properties
+*.jks
+
+# Fastlane related (iOS/Android)
+**/ios/fastlane/report.xml
+**/ios/fastlane/Preview.html
+**/ios/fastlane/screenshots/**/*.png
+**/ios/fastlane/test_output
+
+# Generated files
+*.g.dart
+*.freezed.dart
+
+# Coverage
+coverage/
+
+# Naskah/Dokumen (tidak perlu di-upload)
+*.docx
+NASKAH_VIDEO_PRESENTASI.md
