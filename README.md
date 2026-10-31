@@ -7,8 +7,8 @@ Aplikasi katalog produk berbasis mobile menggunakan framework Flutter yang terin
 ## 📹 Video Presentasi & Live Demo
 Tonton video presentasi kode dan pengujian aplikasi langsung di perangkat HP fisik melalui tautan YouTube berikut:
 - **Tautan YouTube:** [Tonton Video Demo Mellow Market di YouTube](https://youtu.be/gqEANhPqABc?si=VHtLwzjYo9DbBSRT)
-- **Nama Pengembang:** [Isi Nama Anda]
-- **NIM:** [Isi NIM Anda]
+- **Nama Pengembang:** Irwansyah
+- **NIM:** 240102042
 - **Mata Kuliah:** Pemrograman Perangkat Bergerak (Mobile Programming)
 
 ---
@@ -36,8 +36,8 @@ Tonton video presentasi kode dan pengujian aplikasi langsung di perangkat HP fis
 
 1. **Clone repositori ini:**
    ```bash
-   git clone https://github.com/[USERNAME_ANDA]/[NAMA_REPO].git
-   cd [NAMA_REPO]/toko
+   git clone https://github.com/Irwanjsh/tugaskel-flutter.git
+   cd tugaskel-flutter
    ```
 
 2. **Pasang seluruh dependensi:**
@@ -49,8 +49,3 @@ Tonton video presentasi kode dan pengujian aplikasi langsung di perangkat HP fis
    ```bash
    flutter run
    ```
-
----
-
-## 📄 Panduan Naskah Video
-Naskah lengkap presentasi, cue card, dan petunjuk aksi layar tersedia di berkas [`NASKAH_VIDEO_PRESENTASI.md`](./NASKAH_VIDEO_PRESENTASI.md).
